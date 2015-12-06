@@ -1,0 +1,5 @@
+language: android
+install:
+- ./Scripts/install.sh
+build:
+- ./Scripts/build.sh
