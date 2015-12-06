@@ -11,5 +11,5 @@ echo 'Installing Unity.pkg'
 pwd /
 sw_vers -productVersion /
 ls -al /
-ls /
+ls -al /Applications/Utilities/ /
 # sudo installer -dumplog -package Unity.pkg -target /
