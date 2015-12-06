@@ -1,4 +1,5 @@
 language: android
+sudo: true
 install:
 - ./Scripts/install.sh
 build:
