@@ -1,5 +1,6 @@
 language: android
 sudo: required
+os: osx
 install:
 - ./Scripts/install.sh
 build:
