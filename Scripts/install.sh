@@ -10,5 +10,5 @@
 echo 'Installing Unity.pkg'
 pwd /
 ls -al /
-ls -al /Applications/Utilities/Insta* /
+ls -al /Applications/Utilities/ /
 # sudo installer -dumplog -package Unity.pkg -target /
